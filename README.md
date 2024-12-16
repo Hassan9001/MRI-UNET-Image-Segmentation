@@ -6,7 +6,7 @@
 	2. Interactive_Data_Viewer.ipynb: Interactive Image & Mask volume Viewer with widget slider.
 	3. dataprep.ipynb: Saving 2D image slices from 3D volumes.
 	4. data_generator.py: Preproc, Dataset generator, Augmentation.
-	5. Main.ipynb: Train and test the model. predicted results are saved in the result` folder.
+	5. Main.ipynb: Train and test model. Predict results and save new masks to the results result` folder.
 	6. model/model_code.py: Contains the code for building the UNet architecture.
 	7. model/mertrics.py: Contains the code for dice coefficient metric and dice coefficient loss.
 
