@@ -26,8 +26,8 @@ data/volumes/
     	├── img/
     	│      ├── sample.nii.gz
     	│      └── ...
-   		└── mask/
-   	    	    ├── sample.nii.gz
+		└── mask/
+				├── sample.nii.gz
        		    └── ...
 ```
 ## UNET Model:
