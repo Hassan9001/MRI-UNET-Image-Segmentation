@@ -26,9 +26,9 @@ data/volumes/
     	├── img/
     	│      ├── sample.nii.gz
     	│      └── ...
-		└── mask/
-				├── sample.nii.gz
-       		    └── ...
+	└── mask/
+		├── sample.nii.gz
+		└── ...
 ```
 ## UNET Model:
 ![My Model Structure](https://github.com/Hassan9001/MRI-UNET-Image-Segmentation/blob/main/files/my_model_structure.png)
