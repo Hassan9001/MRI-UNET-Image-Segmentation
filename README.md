@@ -7,7 +7,7 @@
 	3. dataprep.ipynb: Saving 2D image slices from 3D volumes.
 	4. dataprep_augmentation.ipynb: Augmenting and saving Training Data.
 	5. data_generator.py: Dataset generator class for feeeding images and masks into model (also includes some Preproc & Augmentation)
-	6. Main.ipynb: Train and test the model. predicted results are saved in the result` folder.
+	6. Main.ipynb: Train and test the model. Save predictions in results folder.
 	7. model/model_code.py: Contains the code for building the UNet architecture.
 	8. model/mertrics.py: Contains the code for dice coefficient metric and dice coefficient loss.
 
